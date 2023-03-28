@@ -21,18 +21,23 @@ Given that GreptimeDB is still in its early stages of development, we have not y
 To foster an open, transparent, and respect community, and to enhance communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
 
 1. **Don’t add someone to a channel without letting them know**
+
 A contributor = someone who has contributed to Greptime GitHub projects. Only Greptime team members can invite a contributor to the Contributor Channel, should avoid confusion by letting someone know that you’ll be adding them to a channel and clarify their responsibilities beforehand.
 
 2. **Be careful with @channel or @everyone all the time**
+
 When you @channel, everyone who is in the channel will get a notification. With @everyone, all members of the general channel will be notified. You can prevent misunderstandings and confusion by only @mentioning or DM the people who need to see your message.
 
 3. **Do write to be understood**
+
 Please try your best to write out your entire point within one message, use direct, succinct language, or bullet points and numbers for the additional organization given the asynchronous nature of Slack.
 
 4. **Use threads to maintain conversation flow**
+
 We encourage you to reply directly to topics and messages that pertain to you by using Slack threads. Replying within a thread declutters the channel and helps maintain control of the workspace.
 
 5. **Customize your Slack notifications**
+
 Since we have contributors located in different timezones, we respect everyone's work style, so if you do not want to be distrubed, please make sure to use clarify this in your status or define when you are working, and when you are not.
 
 ## Resources
