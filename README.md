@@ -18,7 +18,7 @@ Given that GreptimeDB is still in its early stages of development, we have not y
   * answer any questions
   * ...
 
-To foster an active, heathly, and respect community, and to enhance communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
+To foster an  respectful and inclusive community, and to enhance communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
 
 1. **Don’t add someone to a channel without letting them know**: A contributor = someone who has contributed to Greptime GitHub projects. Only Greptime team members can invite a contributor to the Contributor Channel, should avoid confusion by letting someone know that you’ll be adding them to a channel and clarify their responsibilities beforehand.
 
