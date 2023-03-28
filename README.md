@@ -18,7 +18,7 @@ Given that GreptimeDB is still in its early stages of development, we have not y
   * answer any questions
   * ...
 
-To foster an open, transparent, and respect community, and to enhance communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
+To foster an active, heathly, and respect community, and to enhance communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
 
 1. **Don’t add someone to a channel without letting them know**: A contributor = someone who has contributed to Greptime GitHub projects. Only Greptime team members can invite a contributor to the Contributor Channel, should avoid confusion by letting someone know that you’ll be adding them to a channel and clarify their responsibilities beforehand.
 
@@ -30,9 +30,22 @@ To foster an open, transparent, and respect community, and to enhance communicat
 
 5. **Customize your Slack notifications**: Since we have contributors located in different timezones, we respect everyone's work style, so if you do not want to be distrubed, please make sure to use clarify this in your status or define when you are working, and when you are not.
 
+Once you have made a contribution to GreptimeDB, we will send you an invitation to join the Group.
+
 ## Resources
 
 * [Events](events/)
+
+The core team will be thrilled if you participate in any way you like. When you are stuck, try ask for help by filing an issue, with a detailed description of what you were trying to do and what went wrong. If you have any questions or if you would like to get involved in our community, please check out:
+
+* [GreptimeDB Community Slack](https://greptime.com/slack)
+* [GreptimeDB GitHub Discussions](https://github.com/GreptimeTeam/greptimedb/discussions)
+
+Also, see some extra GreptimeDB content:
+
+* [GreptimeDB Docs](https://greptime.com/docs)
+* [Learn GreptimeDB](https://greptime.com/products/db)
+* [Greptime Inc. Website](https://greptime.com/)
 
 ## License
 
