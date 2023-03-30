@@ -9,18 +9,19 @@ We encourage you to get involved, share your ideas, and help us build a vibrant 
 ## Governance
 Given that GreptimeDB is still in its early stages of development, we have not yet implemented a governance system akin to that of the Kubernetes Community. For now, we are maintaining a single official group on Slack.
 
-* **Contributor Group** is a place where developers and contributors can communicate through text meetings, bi-weekly office hours, questionnaires, meetups, and more. We hope this group can promote collaborations and exchange ideas between our team of developers and contributors who are interested in building an amazing TSDB together! The discussion will be across on different
-  * gather new requirements
-  * discuss issues with GreptimeDB products
-  * share technical knowledge
-  * announce the latest releases and private previews
-  * demo new features
-  * answer any questions
-  * ...
+* **Contributor Group** is a place where developers and contributors can communicate through text meetings, bi-weekly office hours, questionnaires, meetups, and more. We hope this group can promote collaborations and exchange ideas between our team of developers and contributors who are interested in building an amazing TSDB together! 
+The discussion will cover various topics, including:
+  * Gathering new requirements
+  * Discussing issues with GreptimeDB products
+  * Sharing technical knowledge
+  * Announcing the latest releases and private previews
+  * Demostrating new features
+  * Responding to any questions
+  * And more...
 
-To foster an  respectful and inclusive community, and to enhance communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
+To foster a respectful and inclusive community, as well as enhancing communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
 
-1. **Don’t add someone to a channel without letting them know**: A contributor = someone who has contributed to Greptime GitHub projects. Only Greptime team members can invite a contributor to the Contributor Channel, should avoid confusion by letting someone know that you’ll be adding them to a channel and clarify their responsibilities beforehand.
+1. **Don’t add someone to a channel without letting them know**: A contributor is defined as someone who has contributed to Greptime GitHub projects. Only Greptime team members can invite a contributor to the Contributor Channel. To avoid confusion, let someone know that you’ll be adding them to a channel and clarify their responsibilities beforehand.
 
 2. **Be careful with @channel or @everyone all the time**: When you @channel, everyone who is in the channel will get a notification. With @everyone, all members of the general channel will be notified. You can prevent misunderstandings and confusion by only @mentioning or DM the people who need to see your message.
 
@@ -28,7 +29,7 @@ To foster an  respectful and inclusive community, and to enhance communication, 
 
 4. **Use threads to maintain conversation flow**: We encourage you to reply directly to topics and messages that pertain to you by using Slack threads. Replying within a thread declutters the channel and helps maintain control of the workspace.
 
-5. **Customize your Slack notifications**: Since we have contributors located in different timezones, we respect everyone's work style, so if you do not want to be distrubed, please make sure to use clarify this in your status or define when you are working, and when you are not.
+5. **Customize your Slack notifications**: Since we have contributors located in different timezones, we respect everyone's work style. If you prefer not to be disturbed, kindly update your status to reflect this, or clearly indicate your working hours so that others are aware.
 
 Once you have made a contribution to GreptimeDB, we will send you an invitation to join the Group.
 
@@ -36,12 +37,12 @@ Once you have made a contribution to GreptimeDB, we will send you an invitation 
 
 * [Events](events/)
 
-The core team will be thrilled if you participate in any way you like. When you are stuck, try ask for help by filing an issue, with a detailed description of what you were trying to do and what went wrong. If you have any questions or if you would like to get involved in our community, please check out:
+The core team would be thrilled if you participated in any way you feel comfortable. If you encounter any difficulties or roadblocks, don't hesitate to seek help by filing an issue with a detailed description of what you were trying to do and what went wrong. If you have any questions or if you would like to get involved in our community, please check out:
 
 * [GreptimeDB Community Slack](https://greptime.com/slack)
 * [GreptimeDB GitHub Discussions](https://github.com/GreptimeTeam/greptimedb/discussions)
 
-Also, see some extra GreptimeDB content:
+Also, check out some additional content for GreptimeDB:
 
 * [GreptimeDB Docs](https://greptime.com/docs)
 * [Learn GreptimeDB](https://greptime.com/products/db)
