@@ -9,7 +9,7 @@ We welcome you to share your ideas, and help us build a vibrant and inclusive co
 ## Governance
 As GreptimeDB is still in its early stages, we have not yet established a governance system comparable to the Kubernetes Community. As of now, we are maintaining only one official group on Slack.
 
-* **Contributor Channel** where developers and contributors communicate through text-based meetings, bi-weekly Office Hours, questionnaires, meetups, and more. We hope this group can promote collaborations and exchange ideas between Greptime's team of developers and contributors who are interested in building an amazing TSDB together! 
+* **Contributor Channel** where developers and contributors communicate through text-based meetings, bi-weekly Office Hours, questionnaires, meetups, and more. We hope this group can promote collaborations and exchange ideas between Greptime's team of developers and contributors who are interested in building an amazing TSDB together!
 The discussion will cover various topics, including:
   * Gathering new requirements
   * Discussing issues with GreptimeDB products
@@ -21,7 +21,7 @@ The discussion will cover various topics, including:
 
 To foster a respectful and inclusive community, as well as enhancing communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
 
-1. **Don’t add someone to a channel without letting them know**: A contributor is defined as someone who has contributed to Greptime GitHub projects. Only Greptime team members can invite a contributor to the Contributor Channel. To avoid confusion, let someone know that you’ll be adding them to a channel and clarify their responsibilities beforehand.
+1. **Don’t add someone to a channel without letting them know**: A contributor is defined as someone who has contributed to Greptime GitHub projects. To avoid confusion, let someone know that you’ll be adding them to a channel and clarify their responsibilities beforehand.
 
 2. **Be careful with @channel or @everyone all the time**: When you @channel, everyone who is in the channel will get a notification. With @everyone, all members of the general channel will be notified. You can prevent misunderstandings and confusion by only @mentioning or DM the people who need to see your message.
 
