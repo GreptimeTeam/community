@@ -1,15 +1,15 @@
 # GreptimeDB Community
 
-We're thrilled to have you as a part of our community! Our mission is to build a modern hybrid time series & analytical database. Whether you're a developer, designer, writer, or simply someone who's passionate about open source, there's a place for you in our community.
+We're excited to have you as a member of Greptime's community! GreptimeDB is a modern hybrid time series & analytical database. Whether you're a developer, architect, designer, technical writer, or just someone who's passionate about open source projects, there's a role for you in our community.
 
-This is a guide to help you get started with our community. Please take a moment to read through this document and familiarize yourself with our code of conduct, contributing guidelines, and other resources.
+This guide assists you in getting started with our community. We kindly request that you take a few moments to read through this document and become acquainted with our code of conduct, guidelines for contributing, and where to find additional resources.
 
-We encourage you to get involved, share your ideas, and help us build a vibrant and inclusive community.
+We welcome you to share your ideas, and help us build a vibrant and inclusive community.
 
 ## Governance
-Given that GreptimeDB is still in its early stages of development, we have not yet implemented a governance system akin to that of the Kubernetes Community. For now, we are maintaining a single official group on Slack.
+As GreptimeDB is still in its early stages, we have not yet established a governance system comparable to the Kubernetes Community. As of now, we are maintaining only one official group on Slack.
 
-* **Contributor Group** is a place where developers and contributors can communicate through text meetings, bi-weekly office hours, questionnaires, meetups, and more. We hope this group can promote collaborations and exchange ideas between our team of developers and contributors who are interested in building an amazing TSDB together! 
+* **Contributor Channel** where developers and contributors communicate through text-based meetings, bi-weekly Office Hours, questionnaires, meetups, and more. We hope this group can promote collaborations and exchange ideas between Greptime's team of developers and contributors who are interested in building an amazing TSDB together! 
 The discussion will cover various topics, including:
   * Gathering new requirements
   * Discussing issues with GreptimeDB products
@@ -25,11 +25,11 @@ To foster a respectful and inclusive community, as well as enhancing communicati
 
 2. **Be careful with @channel or @everyone all the time**: When you @channel, everyone who is in the channel will get a notification. With @everyone, all members of the general channel will be notified. You can prevent misunderstandings and confusion by only @mentioning or DM the people who need to see your message.
 
-3. **Do write to be understood**: Please try your best to write out your entire point within one message, use direct, succinct language, or bullet points and numbers for the additional organization given the asynchronous nature of Slack.
+3. **Do write to be understood**: Please try to write your entire point within one message, use direct, succinct language, or bullet points and numbers given the asynchronous nature of Slack.
 
-4. **Use threads to maintain conversation flow**: We encourage you to reply directly to topics and messages that pertain to you by using Slack threads. Replying within a thread declutters the channel and helps maintain control of the workspace.
+4. **Use threads to maintain conversation flow**: We encourage you to reply directly to topics and messages that are relevant to you by using Slack threads. Replying within a thread helps to keep the channel organized and maintain control of the workspace.
 
-5. **Customize your Slack notifications**: Since we have contributors located in different timezones, we respect everyone's work style. If you prefer not to be disturbed, kindly update your status to reflect this, or clearly indicate your working hours so that others are aware.
+5. **Customize your Slack notifications**: As we have contributors located in different timezones, we respect everyone's work style. If you would rather not be interrupted, we kindly request that you update your status accordingly or clearly communicate your designated working hours so that others may be informed.
 
 Once you have made a contribution to GreptimeDB, we will send you an invitation to join the Group.
 
@@ -37,7 +37,7 @@ Once you have made a contribution to GreptimeDB, we will send you an invitation 
 
 * [Events](events/)
 
-The core team would be thrilled if you participated in any way you feel comfortable. If you encounter any difficulties or roadblocks, don't hesitate to seek help by filing an issue with a detailed description of what you were trying to do and what went wrong. If you have any questions or if you would like to get involved in our community, please check out:
+We are happy to see you participate in any way that suits you. If you encounter any difficulties or problems, do not hesitate to ask for help by submitting an issue with a detailed explanation of what you attempted to do and where the problem arose. If you have any inquiries or wish to become part of our community, please visit:
 
 * [GreptimeDB Community Slack](https://greptime.com/slack)
 * [GreptimeDB GitHub Discussions](https://github.com/GreptimeTeam/greptimedb/discussions)
