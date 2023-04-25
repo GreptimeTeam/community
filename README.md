@@ -21,7 +21,7 @@ The discussion will cover various topics, including:
 
 To foster a respectful and inclusive community, as well as enhance communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
 
-1. **Don’t add someone to a channel without letting them know**: A contributor is defined as someone who has contributed to Greptime GitHub projects. To avoid confusion, let someone know that you’ll be adding them to a channel and clarify their responsibilities beforehand.
+1. **Don’t add someone to a channel without letting them know**: A contributor is someone who has contributed to Greptime GitHub projects. To avoid confusion, let someone know before adding them to a channel and clarify their responsibilities.
 
 2. **Be careful with @channel or @everyone all the time**: When you @channel, everyone who is in the channel will get a notification. With @everyone, all members of the general channel will be notified. You can prevent misunderstandings and confusion by only @mentioning or DM the people who need to see your message.
 
