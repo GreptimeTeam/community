@@ -1,25 +1,25 @@
 # GreptimeDB Community
 
-We're excited to have you as a member of Greptime's community! GreptimeDB is a modern hybrid time series & analytical database. Whether you're a developer, architect, designer, technical writer, or just someone who's passionate about open source projects, there's a role for you in our community.
+We're excited to have you as a member of Greptime's community! GreptimeDB is a modern hybrid time series & analytical database. Whether you're a developer, architect, designer, technical writer, or just someone passionate about open-source projects, there's a place for you in our community.
 
-This guide assists you in getting started with our community. We kindly request that you take a few moments to read through this document and become acquainted with our code of conduct, guidelines for contributing, and where to find additional resources.
+This guide assists you in getting started with our community. We kindly request you to take a few moments to read through this document and become acquainted with our code of conduct, guidelines for contributing, and where to find additional resources.
 
-We welcome you to share your ideas, and help us build a vibrant and inclusive community.
+We welcome you to share your ideas and help us build a vibrant and inclusive community.
 
 ## Governance
-As GreptimeDB is still in its early stages, we have not yet established a governance system comparable to the Kubernetes Community. As of now, we are maintaining only one official group on Slack.
+Since GreptimeDB is still in its early stages, we have not yet established a governance system comparable to Kubernetes's Community. As of now, we are maintaining only one official group on Slack.
 
-* **Contributor Channel** where developers and contributors communicate through text-based meetings, bi-weekly Office Hours, questionnaires, meetups, and more. We hope this group can promote collaborations and exchange ideas between Greptime's team of developers and contributors who are interested in building an amazing TSDB together!
+* **Contributor Channel** where developers and contributors communicate through text-based meetings, bi-weekly Office Hours, questionnaires, meetups, etc. We hope this group can promote collaborations and exchange ideas between Greptime's team of developers and contributors who are interested in building an amazing TSDB together!
 The discussion will cover various topics, including:
   * Gathering new requirements
   * Discussing issues with GreptimeDB products
   * Sharing technical knowledge
   * Announcing the latest releases and private previews
-  * Demostrating new features
+  * Demonstrating new features
   * Responding to any questions
-  * And more...
+  * And more
 
-To foster a respectful and inclusive community, as well as enhancing communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
+To foster a respectful and inclusive community, as well as enhance communication, we hope that every member can adhere to the guidelines and etiquette of our group discussions:
 
 1. **Don’t add someone to a channel without letting them know**: A contributor is defined as someone who has contributed to Greptime GitHub projects. To avoid confusion, let someone know that you’ll be adding them to a channel and clarify their responsibilities beforehand.
 
