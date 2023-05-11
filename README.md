@@ -55,7 +55,9 @@ Advocates*: assist in advocating for Greptime's open source projects and maintai
 ### Special Interest Groups (SIGs)
 
 Special Interest Groups (SIGs): responsible for the development and maintenance of particular modules or features, supporting and building healthy relations among community members and providing shared resources to support sub-projects. By this definition, SIGs are now divided into 3 groups including "Development" "Community Relations", "Shared Resources" and each group consists of sub-projects, see illustration below.
+
 **Development**:
+
 - Dashboard
 - Distributed
 - Query Engine
@@ -63,12 +65,14 @@ Special Interest Groups (SIGs): responsible for the development and maintenance 
 - Tools
 - Ecosystem Integration (such as, PromQL, SQL, Python, Grafana, etc)
 ...etc.
+
 **Community Relations**: provide timely technical and non-technical support to other members in the community by answering their questions; and facilitate new member onboarding, training, etc.
-Shared Resources: centralized unit to provide functional support to all sub-projects within SIGs. It includes technical support, such as Devops, Testing, Quality Assurance (QA) and Architecture Design & Review (ADR); and non-technical support, such as project artifacts, tools, research, operations, knowledge management, meetings, etc.
+
+**Shared Resources**: centralized unit to provide functional support to all sub-projects within SIGs. It includes technical support, such as Devops, Testing, Quality Assurance (QA) and Architecture Design & Review (ADR); and non-technical support, such as project artifacts, tools, research, operations, knowledge management, meetings, etc.
 
 ### Decision Escalation Path
 
-![Decision Escalation Path](./public/img/decision_escalation_path.jpeg)
+![Decision Escalation Path](./public/img/Decision_Escalation_Path.jpeg)
 
 ## Communications
 
@@ -76,6 +80,7 @@ Since GreptimeDB is still in its early stages, as of now, we are maintaining onl
 
 * **Contributor Channel** where developers and contributors communicate through text-based meetings, bi-weekly Office Hours, questionnaires, meetups, etc. We hope this group can promote collaborations and exchange ideas between Greptime's team of developers and contributors who are interested in building an amazing TSDB together!
 The discussion will cover various topics, including:
+
   * Gathering new requirements
   * Discussing issues with GreptimeDB products
   * Sharing technical knowledge
@@ -104,6 +109,7 @@ A General Member can become a Contributor by getting their PRs successfully merg
 A responsive Contributor can become a **Reviewer** by emailing community@greptime.com with the key word "Apply to be a Reviewer" in the subject line, and the Steering Committee will make the final decision and publish the result on the Bi-weekly Report before officially assigning any PRs to the selected Reviewer.
 
 A **Maintainer** is a highly experienced and active Reviewer and can apply to become a member of the Steering Committee by following these steps:
+
 1. Receive email sponsorship by at least two existing members of the Steering Committee.
 2. Forward the emails to community@greptime.com with the key word "Apply to be a Steering Committee member" in the subject line
 3. The Steering Committee goes through the Voting Process.
@@ -114,6 +120,7 @@ A **Maintainer** is a highly experienced and active Reviewer and can apply to be
 ### Membership Benefits Program
 
 Currently, all Contributors receive Greptime's swag and will be mentioned in every Bi-weekly Report published on the official website under Blogs: https://greptime.com/blogs/
+
 Reviewers and Maintainers inherit all benefits of Contributors, additional benefits are pending. We encourgage you to emails us and let us know what makes you feel encouraged to contribute in a community.
 
 ## Resources
