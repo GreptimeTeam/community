@@ -73,7 +73,7 @@ Special Interest Groups (SIGs): responsible for the development and maintenance 
 
 ### Decision Escalation Path
 
-![Decision Escalation Path](./public/img/Decision_Escalation_Path.jpeg)
+![Decision Escalation Path](./public/img/Decision_Escalation_Path.png)
 
 ## Communications
 
@@ -112,7 +112,7 @@ A responsive Contributor can become a **Reviewer** by emailing community@greptim
 A **Maintainer** is a highly experienced and active Reviewer and can apply to become a member of the Steering Committee by following these steps:
 
 1. Receive email sponsorship by at least two existing members of the Steering Committee.
-2. Forward the emails to community@greptime.com with the key word "Apply to be a Steering Committee member" in the subject line
+2. Forward the email to community@greptime.com with the key word "Apply to be a Steering Committee member" in the subject line
 3. The Steering Committee goes through the Voting Process.
 4. The OSPO publishes the decision in the form of meeting minutes and posts it publically.
 
@@ -122,7 +122,7 @@ A **Maintainer** is a highly experienced and active Reviewer and can apply to be
 
 Currently, all Contributors receive Greptime's swag and will be mentioned in every Bi-weekly Report published on the official website under Blogs: https://greptime.com/blogs/
 
-Reviewers and Maintainers inherit all benefits of Contributors, additional benefits are pending. We encourgage you to emails us and let us know what makes you feel encouraged to contribute in a community.
+Reviewers and Maintainers inherit all benefits of Contributors, additional benefits are pending. We encourgage you to email us and let us know what makes you feel encouraged to contribute in a community.
 
 ## Resources
 
