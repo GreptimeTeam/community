@@ -34,7 +34,8 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 **General Members**: anyone who follows and receives regular updates from Greptime. Not limited to: Starred Greptime on GitHub, joined Greptime's Slack, signed up for the maillist, newsletter, or followed Greptime's social media accounts.
 
 **Contributors**: anyone who has raised issues, submitted and got their PRs merged. They can be developers, testers, quality assurance engineers, marketing teams or advocates* (see definition below), etc.
-Advocates*: assist in advocating for Greptime's open source projects and maintaining the community's culture through a series of online or offline activities. (Please use the hashtag #greptime if you are advocating on different social media platforms)
+
+_Advocates*: assist in advocating for Greptime's open source projects and maintaining the community's culture through a series of online or offline activities. (Please use the hashtag #greptime if you are advocating on different social media platforms)_
 
 **Reviewers**: ensure quality and consistency of submitted PRs.
 
