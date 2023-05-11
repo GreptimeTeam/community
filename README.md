@@ -12,48 +12,49 @@ Governance is not bureaucracy, or endless processes and useless documentation, b
 
 You can submit a proposal of improvement by sending us an email community@greptime.com be sure to put the key word "proposal" in the subject; or join our Slack: https://greptime.com/slack to talk to a Steering Committee member, who has a purple icon next to his/her name. Greptime's Steering Committee will review proposals on a regular basis and update the status here: https://github.com/orgs/GreptimeTeam/projects/18/views/1
 
-## Principles
+### Principles
 
 The Greptime community adheres to the following principles:
-Openness: we are determined to practice this principle through 3 stages, from open source to open discussion, ultimately leading to open decision making.
-Inclusiveness: all members feel safe, respected, and comfortable in expressing all aspects of their thoughts and opinions. Our community is where each member shares a sense of belonging with its other members.
-Positivity: the community acts as a support system for members when they require encouragement or help; furthermore, it inspires and encourages members to build positive and beneficial relationships with others.
+**Openness**: we are determined to practice this principle through 3 stages, from open source to open discussion, ultimately leading to open decision making.
+**Inclusiveness**: all members feel safe, respected, and comfortable in expressing all aspects of their thoughts and opinions. Our community is where each member shares a sense of belonging with its other members.
+**Positivity**: the community acts as a support system for members when they require encouragement or help; furthermore, it inspires and encourages members to build positive and beneficial relationships with others.
 
-Note: The governance model for each of the 3 stages will be slightly different, but overall it is a process of going from a simple to a complete governance structure. As of now, we are mostly at the open source stage, but in the future, we will introduce appropriate structures at different stages, eventually evolving from being driven mainly by the Core Team to becoming a highly autonomous open source community. 
+_Note: The governance model for each of the 3 stages will be slightly different, but overall it is a process of going from a simple to a complete governance structure. As of now, we are mostly at the open source stage, but in the future, we will introduce appropriate structures at different stages, eventually evolving from being driven mainly by the Core Team to becoming a highly autonomous open source community._ 
 
-## Code of Conduct
+### Code of Conduct
 
 Greptime follows the Apache Code of Conduct.
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting community@greptime.com with the subject line "Code of Conduct Voilation".
+
 ---
 
-## Roles & Responsibilities
+### Roles & Responsibilities
 
-General Members: anyone who follows and receives regular updates from Greptime. Not limited to: Starred Greptime on GitHub, joined Greptime's Slack, signed up for the maillist, newsletter, or followed Greptime's social media accounts. 
+**General Members**: anyone who follows and receives regular updates from Greptime. Not limited to: Starred Greptime on GitHub, joined Greptime's Slack, signed up for the maillist, newsletter, or followed Greptime's social media accounts. 
 
-Contributors: anyone who has raised issues, submitted and got their PRs merged. They can be developers, testers, quality assurance engineers, marketing teams or advocates* (see definition below), etc. 
+**Contributors**: anyone who has raised issues, submitted and got their PRs merged. They can be developers, testers, quality assurance engineers, marketing teams or advocates* (see definition below), etc. 
 Advocates*: assist in advocating for Greptime's open source projects and maintaining the community's culture through a series of online or offline activities. (Please use the hashtag #greptime if you are advocating on different social media platforms)
 
-Reviewers: ensure quality and consistency of submitted PRs.
+**Reviewers**: ensure quality and consistency of submitted PRs.
 
-Maintainers: has high authority over the project, responsible for code merging, testing and version releases. 
+**Maintainers**: has high authority over the project, responsible for code merging, testing and version releases. 
 
-Sub-project Owner: set direction and priorities for a sub-project; currently all 3 technical co-founders set direction and priorities together, with Greptime developers responsible for the development of each module or function. In the future, as the number of new requirements increases, the Steering Committee will elect Sub-project Owners to develop plans with 3 co-founders together. 
+**Sub-project Owner**: set direction and priorities for a sub-project; currently all 3 technical co-founders set direction and priorities together, with Greptime developers responsible for the development of each module or function. In the future, as the number of new requirements increases, the Steering Committee will elect Sub-project Owners to develop plans with 3 co-founders together. 
 
-## Org Chart
+### Org Chart
 
-Steering Committee: responsible for key decision making of projects, determining project scope, release plan, milestones, community governance, and member election. Since Greptime's current team is not big, it's composed of Core Team and Greptime's 3 technical co-founders: Jeremy F., Dennis Z. and Ning S. (they are explicitly listed here to differentiate open source projects owned by Greptime, with foundation-owned open source projects). However, a Contributor can become a Steering Committee member through the General Member Leadership Program (see below). 
+**Steering Committee**: responsible for key decision making of projects, determining project scope, release plan, milestones, community governance, and member election. Since Greptime's current team is not big, it's composed of Core Team and Greptime's 3 technical co-founders: Jeremy F., Dennis Z. and Ning S. (they are explicitly listed here to differentiate open source projects owned by Greptime, with foundation-owned open source projects). However, a Contributor can become a Steering Committee member through the General Member Leadership Program (see below). 
 
-Open Source Programs Office (OSPO): we brrow the well-known term "OSPO" but the definition is quite different, OSPO in Greptime is a team that manages, organizes, monitors and coordinates a group of Greptime open source sub-projects; it reports to the Steering Committee periodically. Currently, co-founder Jeremy F. is managing all technical sub-projects within the SIGs with the help from the marketing team managing all non-technical sub-projects. OSPO is only formed when a cross-team decision needs to be made, therefore, it only shows on the graph of Decision Escalation Path (see below). 
+**Open Source Programs Office (OSPO)**: we borrow the term "OSPO" but the definition is quite different, OSPO in Greptime is a team that manages, organizes, monitors and coordinates a group of Greptime open source sub-projects; it reports to the Steering Committee periodically. Currently, co-founder Jeremy F. is managing all technical sub-projects within the SIGs with the help from the marketing team managing all non-technical sub-projects. OSPO is only formed when a cross-team decision needs to be made, therefore, it only shows on the graph of Decision Escalation Path (see below). 
 
-Core Team: responsible for the operation, execution and maintenance of open source projects. Currently, Core Team includes Gretpime's full/part-time developers and marketing team members who are working for open source projects that are owned by Greptime. 
+**Core Team**: responsible for the operation, execution and maintenance of open source projects. Currently, Core Team includes Gretpime's full/part-time developers and marketing team members who are working for open source projects that are owned by Greptime. 
 
 PIC
 
-## Special Interest Groups (SIGs)
+### Special Interest Groups (SIGs)
 
 Special Interest Groups (SIGs): responsible for the development and maintenance of particular modules or features, supporting and building healthy relations among community members and providing shared resources to support sub-projects. By this definition, SIGs are now divided into 3 groups including "Development" "Community Relations", "Shared Resources" and each group consists of sub-projects, see illustration below. 
-Development: 
+**Development**: 
 - Dashboard
 - Distributed
 - Query Engine
@@ -61,16 +62,16 @@ Development:
 - Tools
 - Ecosystem Integration (such as, PromQL, SQL, Python, Grafana, etc)
 ...etc. 
-Community Relations: provide timely technical and non-technical support to other members in the community by answering their questions; and facilitate new member onboarding, training, etc. 
+**Community Relations**: provide timely technical and non-technical support to other members in the community by answering their questions; and facilitate new member onboarding, training, etc. 
 Shared Resources: centralized unit to provide functional support to all sub-projects within SIGs. It includes technical support, such as Devops, Testing, Quality Assurance (QA) and Architecture Design & Review (ADR); and non-technical support, such as project artifacts, tools, research, operations, knowledge management, meetings, etc.
 
-## Decision Escalation Path
+### Decision Escalation Path
 
 PIC
  
 ## Communications
 
-Since GreptimeDB is still in its early stages, we have not yet established a governance system comparable to Kubernetes's Community. As of now, we are maintaining only one official group on Slack.
+Since GreptimeDB is still in its early stages, as of now, we are maintaining only one official group on Slack. Besides the # general channel, we also invite contributors to a private # contributor channel.
 
 * **Contributor Channel** where developers and contributors communicate through text-based meetings, bi-weekly Office Hours, questionnaires, meetups, etc. We hope this group can promote collaborations and exchange ideas between Greptime's team of developers and contributors who are interested in building an amazing TSDB together!
 The discussion will cover various topics, including:
@@ -94,15 +95,14 @@ To foster a respectful and inclusive community, as well as enhance communication
 
 5. **Customize your Slack notifications**: As we have contributors located in different timezones, we respect everyone's work style. If you would rather not be interrupted, we kindly request that you update your status accordingly or clearly communicate your designated working hours so that others may be informed.
 
-Once you have made a contribution to GreptimeDB, we will send you an invitation to join the Group.
 
 ## General Member Leadership Program
 
 A General Member can become a Contributor by getting their PRs successfully merged into GreptimeDB's main branch in GitHub. 
 
-A responsive Contributor can become a Reviewer by emailing community@greptime.com with the key word "Apply to be a Reviewer" in the subject line, and the Steering Committee will make the final decision and publish the result on the Bi-weekly Report before officially assigning any PRs to the selected Reviewer.
+A responsive Contributor can become a **Reviewer** by emailing community@greptime.com with the key word "Apply to be a Reviewer" in the subject line, and the Steering Committee will make the final decision and publish the result on the Bi-weekly Report before officially assigning any PRs to the selected Reviewer.
 
-A Maintainer is a highly experienced and active Reviewer and can apply to become a member of the Steering Committee by following these steps:
+A **Maintainer** is a highly experienced and active Reviewer and can apply to become a member of the Steering Committee by following these steps:
 1. Receive email sponsorship by at least two existing members of the Steering Committee.
 2. Forward the emails to community@greptime.com with the key word "Apply to be a Steering Committee member" in the subject line 
 3. The Steering Committee goes through the Voting Process. 
@@ -110,10 +110,10 @@ A Maintainer is a highly experienced and active Reviewer and can apply to become
 
 PIC
 
-## Membership Benefits Program
+### Membership Benefits Program
 
-1. Currently, all Contributors receive Greptime's swag and will be mentioned in every Bi-weekly Report published on the official website under Blogs: https://greptime.com/blogs/
-2. Reviewers and Maintainers inherit all benefits of Contributors, additional benefits are pending. We encourgage you to emails us and let us know what makes you feel encouraged to contribute in a community.
+Currently, all Contributors receive Greptime's swag and will be mentioned in every Bi-weekly Report published on the official website under Blogs: https://greptime.com/blogs/
+Reviewers and Maintainers inherit all benefits of Contributors, additional benefits are pending. We encourgage you to emails us and let us know what makes you feel encouraged to contribute in a community.
 
 ## Resources
 
