@@ -1,8 +1,8 @@
 # GreptimeDB Community
 
-We're excited to have you as a member of Greptime's community! GreptimeDB is a modern hybrid time series & analytical database. Whether you're a developer, architect, designer, technical writer, or just someone passionate about open-source projects, there's a place for you in our community.
+We're excited to have you as a member of Greptime community! GreptimeDB is a modern hybrid time series & analytical database. Whether you're a developer, architect, designer, technical writer, or just someone passionate about open-source projects, there's a place for you in our community.
 
-This guide assists you in getting started with our community. We kindly request you to take a few moments to read through this document and become acquainted with our code of conduct, guidelines for contributing, and where to find additional resources.
+This guide assists you in getting started with contributing in our community. Please take a few moments to read through this document and become acquainted with the community's principles, community governance, code of conduct, leadershhip program, and where to find additional resources.
 
 We welcome you to share your ideas and help us build a vibrant and inclusive community.
 
