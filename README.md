@@ -74,7 +74,7 @@ Special Interest Groups (SIGs): responsible for the development and maintenance 
 ### Decision Escalation Path
 
 <p>
-<img src="./public/img/Decision_Escalation_Path.png" alt="Decision Escalation Path" width="200"/>
+<img src="./public/img/Decision_Escalation_Path.png" alt="Decision Escalation Path" style=""width: 70%; margin: 0 auto;"/>
 </p>
 
 ## Communications
