@@ -37,7 +37,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 _Advocates*: assist in advocating for Greptime's open source projects and maintaining the community's culture through a series of online or offline activities. (Please use the hashtag #greptime if you are advocating on different social media platforms)_
 
-**Reviewers**: ensure quality and consistency of submitted PRs.
+**Reviewers**: ensure quality and consistency of submitted PRs (granted with both read & write access). Additional requirements can be found under "**General Member Leadership Program**" for promoted Reviewers.
 
 **Maintainers**: has high authority over the project, responsible for code merging, testing and version releases.
 
@@ -107,9 +107,28 @@ To foster a respectful and inclusive community, as well as enhance communication
 
 ## General Member Leadership Program
 
-A General Member can become a Contributor by getting their PRs successfully merged into GreptimeDB's main branch in GitHub.
+A General Member can become a **Contributor** by getting their PRs successfully merged into GreptimeDB's main branch in GitHub.
 
-A responsive Contributor can become a **Reviewer** by emailing community@greptime.com with the key word "Apply to be a Reviewer" in the subject line, and the Steering Committee will make the final decision and publish the result on the Bi-weekly Report before officially assigning any PRs to the selected Reviewer.
+A responsive Contributor is qualified to become a **Reviewer** if he/she meets the requirements below: 
+
+1. Has been contributing to GreptimeDB GitHub for at least 3 months (**Must**)
+2. Got at least 10 PRs successfully merged (**Must**)
+3. Participated in at least one online/offline event (Bonus!)
+4. Actively leaving comments or helping other members in the community with their questions (Bonus!)
+
+Process to become a **Reviewer**: 
+
+1. The Steering Committee goes through an internal Voting Process. 
+2. The Steering Committee sends email invitations to Contributors who meet the requirement and got more than half votes from the step above. 
+3. The Contributors can reply with "Accept" or "Deny" 
+4. The Greptime team announces the news on the next Bi-weekly Report before officially assigning any PRs to the selected Reviewer.
+
+Additional responsibilities & exit program for promoted **Reviewers**:
+
+- Please defend the reputation of the community since you are representing GreptimeDB after being promoted as a Reviewer.
+- Help with testing and changes into the codebase or documentation for merged PRs. 
+- Help the community enhance relevant standards or processes such as CR, style guidances, code review, etc. 
+- An active Reviewer becomes a Reviewer of Honours if he/she has not contributed for more than 18 months. 
 
 A **Maintainer** is a highly experienced and active Reviewer and can apply to become a member of the Steering Committee by following these steps:
 
