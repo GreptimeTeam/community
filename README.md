@@ -45,11 +45,11 @@ _Advocates*: assist in advocating for Greptime's open source projects and mainta
 
 ### Org Chart
 
-**Steering Committee**: responsible for key decision making of projects, determining project scope, release plan, milestones, community governance, and member election. Since Greptime's current team is not big, it's composed of Core Team and Greptime's 3 technical co-founders: Jeremy F., Dennis Z. and Ning S. (they are explicitly listed here to differentiate open source projects owned by Greptime, with foundation-owned open source projects). However, a Contributor can become a Steering Committee member through the General Member Leadership Program (see below).
+**Steering Committee**: responsible for key decision making, determining project scope, release plan, milestones, community governance, and key member election. Since Greptime's current team is not big, it's composed of the **Core Team** and Greptime's 3 technical co-founders: Jeremy F., Dennis Z. and Ning S. (they are explicitly listed here to differentiate open source projects owned by Greptime, with foundation-owned open source projects). However, a Contributor can become a Steering Committee member through the General Member Leadership Program (see below).
 
-**Open Source Programs Office (OSPO)**: we borrow the term "OSPO" but the definition is quite different, OSPO in Greptime is a team that manages, organizes, monitors and coordinates a group of Greptime open source sub-projects; it reports to the Steering Committee periodically. Currently, co-founder Jeremy F. is managing all technical sub-projects within the SIGs with the help from the marketing team managing all non-technical sub-projects. OSPO is only formed when a cross-team decision needs to be made, therefore, it only shows on the graph of Decision Escalation Path (see below).
+**Open Source Programs Office (OSPO)**: we borrow the term "OSPO" but the definition is different, OSPO in Greptime is a team that manages, organizes, monitors and coordinates a group of Greptime open source sub-projects; it reports to the Steering Committee periodically. Currently, co-founder Jeremy F. is managing all technical sub-projects within the SIGs with the help from the marketing team managing all non-technical sub-projects. OSPO is only formed when a cross-team decision needs to be made, therefore, it only shows on the graph of Decision Escalation Path (see below).
 
-**Core Team**: responsible for the operation, execution and maintenance of open source projects. Currently, Core Team includes Gretpime's full/part-time developers and marketing team members who are working for open source projects that are owned by Greptime.
+**Core Team**: responsible for the operation, execution and maintenance of Greptime's open source projects. Currently, Core Team includes Gretpime's full/part-time developers and marketing team members who are working for open source projects that are owned by Greptime.
 
 ![Org Chart](./public/img/org_chart.png)
 
@@ -109,26 +109,26 @@ To foster a respectful and inclusive community, as well as enhance communication
 
 A General Member can become a **Contributor** by getting their PRs successfully merged into GreptimeDB's main branch in GitHub.
 
-A responsive Contributor is qualified to become a **Reviewer** if he/she meets the requirements below: 
+A responsive Contributor is qualified to become a selected **Reviewer** if he/she meets the requirements below: 
 
-1. Has been contributing to GreptimeDB GitHub for at least 3 months (**Must**)
-2. Got at least 10 PRs successfully merged (**Must**)
-3. Participated in at least one online/offline event (Bonus!)
-4. Actively leaving comments or helping other members in the community with their questions (Bonus!)
+1. Has been contributing to Greptime's open source projects on GitHub for at least 3 months (**Must**).
+2. Got at least 10 PRs successfully merged into the main branch on GitHub (**Must**).
+3. Participated in at least one online/offline event of Greptime (Bonus!).
+4. Actively leaving comments or helping other members of the Greptime Community with their questions (Bonus!).
 
-Process to become a **Reviewer**: 
+Process to become a selected **Reviewer**: 
 
-1. The Steering Committee goes through an internal Voting Process. 
-2. The Steering Committee sends email invitations to Contributors who meet the requirement and got more than half votes from the step above. 
-3. The Contributors can reply with "Accept" or "Deny" 
-4. The Greptime team announces the news on the next Bi-weekly Report before officially assigning any PRs to the selected Reviewer.
+1. The Steering Committee of the Greptime Community goes through an internal Voting Process.
+2. The OSPO of the Greptime Community sends an email invitation to the Contributor who meets the requirements and receives more than half votes from the step above.
+3. The Contributor replies the email with the key word, "Accept" or "Deny", to indicate his/her willingness to become a Reviewer of the Greptime Community.
+4. The Greptime team announces the news in the next Bi-weekly Report before officially assigning any PRs to the selected Reviewer.
 
-Additional responsibilities & exit program for promoted **Reviewers**:
-
-- Please defend the reputation of the community since you are representing GreptimeDB after being promoted as a Reviewer.
-- Help with testing and changes into the codebase or documentation for merged PRs. 
-- Help the community enhance relevant standards or processes such as CR, style guidances, code review, etc. 
-- An active Reviewer becomes a Reviewer of Honours if he/she has not contributed for more than 18 months. 
+Responsibilities & exit program for the selected **Reviewer**:
+- Ensure quality and consistency of submitted PRs on Greptime's GitHub.
+- Help with testings and changes into the codebase or documentation for merged PRs. 
+- Help the Greptime Community to enhance relevant standards or processes such as CR, style guidance, code review, etc. 
+- Defend the reputation of the community since he/she is representing Greptime after being selected as a Reviewer.
+- An active Reviewer becomes a Reviewer of Honours if he/she has not contributed for Greptime for more than 18 months. 
 
 A **Maintainer** is a highly experienced and active Reviewer and can apply to become a member of the Steering Committee by following these steps:
 
