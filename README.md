@@ -37,7 +37,7 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 _Advocates*: assist in advocating for Greptime's open source projects and maintaining the community's culture through a series of online or offline activities. (Please use the hashtag #greptime if you are advocating on different social media platforms)_
 
-**Reviewers**: ensure quality and consistency of submitted PRs (granted with both read & write access). Additional requirements can be found under "**General Member Leadership Program**" for promoted Reviewers.
+**Committers**: besides ensure quality and consistency of submitted PRs (granted with both read & write access), being a committer also entails dedication to the community and actively striving towards achieving its objectives. Additional requirements can be found under "**General Member Leadership Program**" for selected Committers.
 
 **Maintainers**: has high authority over the project, responsible for code merging, testing and version releases.
 
@@ -109,28 +109,28 @@ To foster a respectful and inclusive community, as well as enhance communication
 
 A General Member can become a **Contributor** by getting their PRs successfully merged into GreptimeDB's main branch in GitHub.
 
-A responsive Contributor is qualified to become a selected **Reviewer** if he/she meets the requirements below: 
+A responsive Contributor is qualified to become a selected **Committer** if he/she meets the requirements below: 
 
 1. Has been contributing to Greptime's open source projects on GitHub for at least 3 months (**Must**).
 2. Got at least 10 PRs successfully merged into the main branch on GitHub (**Must**).
 3. Participated in at least one online/offline event of Greptime (Bonus!).
 4. Actively leaving comments or helping other members of the Greptime Community with their questions (Bonus!).
 
-Process to become a selected **Reviewer**: 
+Process to become a selected **Committer**: 
 
 1. The Steering Committee of the Greptime Community goes through an internal Voting Process.
 2. The OSPO of the Greptime Community sends an email invitation to the Contributor who meets the requirements and receives more than half votes from the step above.
-3. The Contributor replies the email with the key word, "Accept" or "Deny", to indicate his/her willingness to become a Reviewer of the Greptime Community.
-4. The Greptime team announces the news in the next Bi-weekly Report before officially assigning any PRs to the selected Reviewer.
+3. The Contributor replies the email with the key word, "Accept" or "Deny", to indicate his/her willingness to become a Committer of the Greptime Community.
+4. The Greptime team announces the news in the next Bi-weekly Report before officially assigning any PRs to the selected Committer.
 
-Responsibilities & exit program for the selected **Reviewer**:
+Responsibilities & exit program for the selected **Committer**:
 - Ensure quality and consistency of submitted PRs on Greptime's GitHub.
 - Help with testings and changes into the codebase or documentation for merged PRs. 
 - Help the Greptime Community to enhance relevant standards or processes such as CR, style guidance, code review, etc. 
-- Defend the reputation of the community since he/she is representing Greptime after being selected as a Reviewer.
-- An active Reviewer becomes a Reviewer of Honours if he/she has not contributed for Greptime for more than 18 months. 
+- Defend the reputation of the community since he/she is representing Greptime after being selected as a Committer.
+- An active Committer becomes a Committer of Honours if he/she has not contributed for Greptime for more than 18 months. 
 
-A **Maintainer** is a highly experienced and active Reviewer and can apply to become a member of the Steering Committee by following these steps:
+A **Maintainer** is a highly experienced and active Committer and can apply to become a member of the Steering Committee by following these steps:
 
 1. Receive email sponsorship by at least two existing members of the Steering Committee.
 2. Forward the email to community@greptime.com with the key word "Apply to be a Steering Committee member" in the subject line
@@ -143,7 +143,7 @@ A **Maintainer** is a highly experienced and active Reviewer and can apply to be
 
 Currently, all Contributors receive Greptime's swag and will be mentioned in every Bi-weekly Report published on the official website under Blogs: https://greptime.com/blogs/
 
-Reviewers and Maintainers inherit all benefits of Contributors, additional benefits are pending. We encourgage you to email us and let us know what makes you feel encouraged to contribute in a community.
+Committers and Maintainers inherit all benefits of Contributors, additional benefits are pending. We encourgage you to email us and let us know what makes you feel encouraged to contribute in a community.
 
 ## Resources
 
