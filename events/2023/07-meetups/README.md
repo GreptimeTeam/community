@@ -26,7 +26,7 @@ In this recording, we introduced what is Greptime and why we built this open-sou
 We start by introducing some background knowledge about time series data and its scenarios of application. Then our CEO Dennis introduced the born of Greptime as a startup and some key milestones we reached since founded. 
 
 In the next section, Dennis introduced in detail the architecture behind GreptimeDB along with some key features. 
-GreptimeDB: https://github.com/GreptimeTeam/grept...
+GreptimeDB: https://github.com/GreptimeTeam/greptimedb
 
 Then Jeremy presents some updates and highlights in our latest released GreptimeDB v0.3. 
 
