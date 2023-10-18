@@ -4,7 +4,7 @@
 
 ### What
 
-In the second edition of our online ‘Greptime’ meetup, our Database team unveiled the latest features of GreptimeDB v0.4. The standout highlight was the introduction of our brand new engine “Mito2”, conceptualized and designed specifically for efficient time-series data processing. As part of the meetup, the team also presented a detailed benchmark comparison between v0.3.0 and v0.4.0, highlighting the significant improvements made in the newest version.
+In the second edition of our online meetup, our Database team unveiled the latest features of GreptimeDB v0.4. The standout highlight was the introduction of our brand new engine “Mito2”, conceptualized and designed specifically for efficient time-series data processing. As part of the meetup, the team also presented a detailed benchmark comparison between v0.3.0 and v0.4.0, highlighting the significant improvements made in the newest version.
 
 **Sneak Peak for the Agenda:**
 
