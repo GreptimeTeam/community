@@ -51,7 +51,7 @@ _Advocates*: assist in advocating for Greptime's open source projects and mainta
 
 **Core Team**: responsible for the operation, execution and maintenance of Greptime's open source projects. Currently, Core Team includes Gretpime's full/part-time developers and marketing team members who are working for open source projects that are owned by Greptime.
 
-![Org Chart](./public/img/org_chart.png)
+![Org Chart](/public/img/org_chart.png)
 
 ### Special Interest Groups (SIGs)
 
@@ -74,7 +74,7 @@ Special Interest Groups (SIGs): responsible for the development and maintenance 
 ### Decision Escalation Path
 
 <p>
-<img src="./public/img/Decision_Escalation_Path.png" alt="Decision Escalation Path" style="width: 70%; margin: 0 auto;"/>
+<img src="/public/img/Decision_Escalation_Path.png" alt="Decision Escalation Path" style="width: 70%; margin: 0 auto;"/>
 </p>
 
 ## Communications
@@ -137,7 +137,7 @@ A **Maintainer** is a highly experienced and active Committer and can apply to b
 3. The Steering Committee goes through the Voting Process.
 4. The OSPO publishes the decision in the form of meeting minutes and posts it publically.
 
-![Member Leadership](./public/img/membership.jpeg)
+![Member Leadership](/public/img/membership.jpeg)
 
 ### Membership Benefits Program
 
@@ -147,19 +147,13 @@ Committers and Maintainers inherit all benefits of Contributors, additional bene
 
 ## Resources
 
-* [Events](events/)
-
 We are happy to see you participate in any way that suits you. If you encounter any difficulties or problems, do not hesitate to ask for help by submitting an issue with a detailed explanation of what you attempted to do and where the problem arose. If you have any inquiries or wish to become part of our community, please visit:
 
 * [GreptimeDB Community Slack](https://greptime.com/slack)
-* [GreptimeDB GitHub Discussions](https://github.com/GreptimeTeam/greptimedb/discussions)
+* [GreptimeDB GitHub Discussions](https://github.com/GreptimeTeam/discussions)
 
 Also, check out some additional content for GreptimeDB:
 
-* [GreptimeDB Docs](https://greptime.com/docs)
-* [Learn GreptimeDB](https://greptime.com/products/db)
+* [GreptimeDB Docs](https://docs.greptime.com/)
+* [Learn GreptimeDB](https://docs.greptime.com/user-guide/concepts/data-model)
 * [Greptime Inc. Website](https://greptime.com/)
-
-## License
-
-GreptimeDB Community is under the Apache 2.0 license. See the [LICENSE](./LICENSE) file for details.
